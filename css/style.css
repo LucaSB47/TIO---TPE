@@ -47,3 +47,16 @@ p {
     margin-bottom: 10px;
     font-size: 20px;
 }
+.link{
+    display: none;
+    list-style: none;
+}
+.mostrar{
+    display: flex; 
+}
+.menu, ul.link.mostrar, .mostrar{
+    display: flex; 
+}
+.menu :hover{
+    cursor: pointer;
+}
