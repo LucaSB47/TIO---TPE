@@ -33,16 +33,20 @@ li {
     list-style: none;
     text-decoration: none;
 }
+a {
+    color: #FFFFFF;
+}
 
 a:link {
     font-size: 20px;
     text-decoration: none
+
 }
 a:visited {
     text-decoration: none;
 }
 a:visited {
-    color: #03B29F;
+    color: #0661A1;
 }
 
 a:hover {
