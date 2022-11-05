@@ -1,0 +1,3 @@
+Hay que corregir el color de los links
+hay que mover el footer 
+hay que arreglar los tamaños de los textos
