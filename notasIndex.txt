@@ -1,2 +1,4 @@
 falta agregar lugares
 falta modificar texto
+falta cambiar ciertos colores
+falta añadir imagenes actualizadas
