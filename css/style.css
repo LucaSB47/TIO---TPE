@@ -33,7 +33,11 @@ li {
     list-style: none;
     text-decoration: none;
 }
+
 a {
+    color: #0661A1;
+}
+a:link {
     color: #FFFFFF;
 }
 
@@ -60,7 +64,10 @@ p {
 .link{
     display: none;
     list-style: none;
+    background-color: black;
+    padding-bottom: 1%;
 }
+
 .mostrar{
     display: flex; 
 }
